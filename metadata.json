@@ -1,0 +1,5 @@
+{
+  "name": "AI Governance Dashboard",
+  "description": "An interactive dashboard to classify and visualize knowledge contributions based on a 3x3 AI Governance Matrix, powered by Gemini. This tool helps operationalize ethical principles by structuring decentralized expertise into a coherent, steerable framework.",
+  "requestFramePermissions": []
+}
